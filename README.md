@@ -1,7 +1,6 @@
 ### OLÁ ! EU SOU O GABRIEL BRUNO 
 
-- Hoje trabalho como técnico em informática e analista de sistemas. 
-- Cursando analise e desenvolvimento de sistemas pela PUC minas.
-- Estudando para ser desenvolvedor.
+- Hoje eu estagío como desenvolvedor backend na EmCash.
+- Cursando 3° periodo em analise e desenvolvimento de sistemas pela PUC minas.
 - Contato: Gabriel.bruno1w@gmail.com
 
